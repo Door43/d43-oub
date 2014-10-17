@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[oub:home|Door43 (oub)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-oub|d43-oub repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-oub/archive/master.zip|d43-oub.zip]]
+
+**Recent Changes**
+{{changes>ns = oub}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/oub|Ethnologue data]]
+
